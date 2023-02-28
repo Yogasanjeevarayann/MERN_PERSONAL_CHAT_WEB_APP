@@ -4,3 +4,5 @@ MERN STACK WEB APPLICATION - PERSONAL CHAT WEB APP
 ![3](https://user-images.githubusercontent.com/106137360/221935193-8b7f2613-8225-4961-84c7-b83db2a16ab5.png)
 ![4](https://user-images.githubusercontent.com/106137360/221935207-479eaec3-2b73-4b22-921b-6f303bfa8ae9.png)
 ![5](https://user-images.githubusercontent.com/106137360/221935276-d9994fcb-624f-4784-8489-c02e88396e9d.png)
+![6](https://user-images.githubusercontent.com/106137360/221935340-efc4525e-4b10-43d7-bb1b-a69b9acca000.png)
+![7](https://user-images.githubusercontent.com/106137360/221935350-a36b739f-8cac-48e4-9ab0-7da000e1976f.png)
