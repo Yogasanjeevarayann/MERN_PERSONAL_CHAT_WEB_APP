@@ -1,4 +1,5 @@
-MERN STACK WEB APPLICATION - PERSONAL CHAT WEB APP 
+<center><strong>MERN STACK WEB APPLICATION - PERSONAL CHAT WEB APP </strong></center>
+
 ![1](https://user-images.githubusercontent.com/106137360/221935141-a6d24a94-b0de-48bd-8771-63c8f853df2a.png)
 ![2](https://user-images.githubusercontent.com/106137360/221935182-ceb567f3-0725-4b19-92d3-9e301596494c.png)
 ![3](https://user-images.githubusercontent.com/106137360/221935193-8b7f2613-8225-4961-84c7-b83db2a16ab5.png)
