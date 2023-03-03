@@ -1,4 +1,4 @@
-<h1><center><strong>MERN STACK WEB APPLICATION - PERSONAL CHAT WEB APP  </strong></center></h1>
+<h1><center><strong>MERN STACK WEB APPLICATION -  PERSONAL CHAT WEB APP  </strong></center></h1>
 
 
 ![1](https://user-images.githubusercontent.com/106137360/221935141-a6d24a94-b0de-48bd-8771-63c8f853df2a.png)
